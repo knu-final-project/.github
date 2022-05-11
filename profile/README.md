@@ -12,5 +12,5 @@
 __<p align='center'> PRINT('주현우, 조준영, 한혜림, 송준영, 이지현, 이동언😉') </p>__
 
 
-<img src="https://github.com/knu-final-project/.github/blob/main/KakaoTalk_20220511_130012419.jpg?raw=true" alt="출퇴근길" width="400">
+<center> <img src="https://github.com/knu-final-project/.github/blob/main/KakaoTalk_20220511_130012419.jpg?raw=true" alt="출퇴근길" width="600"> </center>
 
