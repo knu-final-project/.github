@@ -5,12 +5,5 @@
 
 __<p align='center'> PRINT('이지현, 이동언, 한혜림, 송준영, 주현우, 조준영😉') </p>__
 
-
-
-<a href="#"><img src="https://github.com/knu-final-project/.github/blob/main/KakaoTalk_20220511_130012419.jpg?raw=true
-" width="400px" alt="sample image"></a> 
-
-
 ![Github logo](https://github.com/knu-final-project/.github/blob/main/KakaoTalk_20220511_130012419.jpg?raw=true) 
-Format: ![이미지 alt명](url 링크) 
 
