@@ -6,7 +6,7 @@
 __<p align='center'> PRINT('이지현, 이동언, 한혜림, 송준영, 주현우, 조준영😉') </p>__
 
 
-<img width="80%" src="https://user-images.githubusercontent.com/77602257/167764922-787c422f-20af-4b0a-a78e-dd61ce3b7f0a.mp4"/>
+<img width="80%" src="https://user-images.githubusercontent.com/77602257/167766708-4f26b7b1-9372-4917-b190-e0568e9f5a15.gif"/>
 
 
 
